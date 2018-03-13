@@ -1,0 +1,21 @@
+{
+  "name": "hunt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "dotenv": "^5.0.1",
+    "node-fetch": "^2.1.1",
+    "slugify": "^1.2.9"
+  },
+  "devDependencies": {
+    "eslint": "^4.18.2"
+  }
+}
